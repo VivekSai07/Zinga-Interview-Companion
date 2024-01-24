@@ -39,4 +39,8 @@ npm install @google/generative-ai
 - Click the "Send" button to interact with Zinga.
 - Zinga will respond based on the provided chat history and your input.
 
+![Zinga Conversation](https://github.com/VivekSai07/Zinga-Interview-Companion/blob/main/Output.png)
+
 Feel free to ask Zinga about algorithms, data structures, machine learning, and more. Happy interviewing!
+
+
