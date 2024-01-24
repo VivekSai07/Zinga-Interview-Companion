@@ -8,7 +8,7 @@ Before getting started, ensure you have the following prerequisites installed:
 
 - Node.js (version >= 18)
 ```bash
-  node --version # Should be >= 18
+node --version # Should be >= 18
 ```
 - Install the Google Generative AI package
 ```bash
